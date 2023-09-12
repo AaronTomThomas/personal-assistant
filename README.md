@@ -1,4 +1,4 @@
-## ScreenShots
+## Screen Shots
 
 ![image](https://github.com/AaronTomThomas/personal-assistant/assets/126454177/124deb77-3a21-4dbd-9b79-25011b3d9230)
 
